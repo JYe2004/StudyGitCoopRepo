@@ -5,5 +5,5 @@ public class Customer {
     public static User user;
     private double price;
     private String pwd;
-    private Double money;
+    private int money;
 }
